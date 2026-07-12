@@ -11,6 +11,8 @@ YukkuriMovieMaker4（YMM4）上で動作する、映像の明るい部分から�
 筋の先端は分散で虹色に色づき、光の色で全体の色みを調整できます。
 数値パラメータはアニメーションに対応しています。
 
+![Image](https://github.com/routersys/YMM4-CrossFilter/blob/main/docs/CrossFilter.png)
+
 ---
 
 ## 目次
